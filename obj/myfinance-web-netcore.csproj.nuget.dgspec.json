@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/thiagosouza/Documents/code.nosync/Estudos/praticadeimplementacao/src/myfinance-web-netcore/myfinance-web-netcore.csproj": {}
+    "D:\\Work\\Estudos\\dotnet\\myfinance-web-dotnet\\myfinance-web-netcore.csproj": {}
   },
   "projects": {
-    "/Users/thiagosouza/Documents/code.nosync/Estudos/praticadeimplementacao/src/myfinance-web-netcore/myfinance-web-netcore.csproj": {
+    "D:\\Work\\Estudos\\dotnet\\myfinance-web-dotnet\\myfinance-web-netcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thiagosouza/Documents/code.nosync/Estudos/praticadeimplementacao/src/myfinance-web-netcore/myfinance-web-netcore.csproj",
+        "projectUniqueName": "D:\\Work\\Estudos\\dotnet\\myfinance-web-dotnet\\myfinance-web-netcore.csproj",
         "projectName": "myfinance-web-netcore",
-        "projectPath": "/Users/thiagosouza/Documents/code.nosync/Estudos/praticadeimplementacao/src/myfinance-web-netcore/myfinance-web-netcore.csproj",
-        "packagesPath": "/Users/thiagosouza/.nuget/packages/",
-        "outputPath": "/Users/thiagosouza/Documents/code.nosync/Estudos/praticadeimplementacao/src/myfinance-web-netcore/obj/",
+        "projectPath": "D:\\Work\\Estudos\\dotnet\\myfinance-web-dotnet\\myfinance-web-netcore.csproj",
+        "packagesPath": "C:\\Users\\jplou\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\Estudos\\dotnet\\myfinance-web-dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/thiagosouza/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jplou\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
