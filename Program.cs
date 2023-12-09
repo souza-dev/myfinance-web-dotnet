@@ -2,7 +2,6 @@ using System.Reflection;
 using myfinance_web_netcore.Infrastructure;
 using myfinance_web_netcore.Services;
 using myfinance_web_netcore.Mappers;
-using myfinance_web_netcore.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,7 +9,12 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<MyFinanceDbContext>();
 builder.Services.AddTransient<IPlanoContaService, PlanoContaService>();
+builder.Services.AddTransient<ITransacaoService, TransacaoService>();
+
 builder.Services.AddAutoMapper(typeof(PlanoContaMap));
+builder.Services.AddAutoMapper(typeof(TransacaoMap));
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

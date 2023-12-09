@@ -1,26 +1,30 @@
 ﻿@{
-    ViewData["Title"] = "Listagem de plano de contas";
+    ViewData["Title"] = "Listagem de transação";
 }
 
-<button type="button" class="btn btn-block btn-primary" onclick="Adicionar()">Criar item de Plano de Conta</button>
+<button type="button" class="btn btn-block btn-primary" onclick="Adicionar()">Registrar transações</button>
 <br /><br />
 
 <table class="table table-bordered">
     <tr>
         <th>Id</th>
-        <th>Descrição</th>
+        <th>Historico</th>
         <th>Tipo</th>
+        <th>Valor</th>
+        <th>Data</th>
         <th>#</th>
         <th>#</th>
     </tr>
 
     @{
-        foreach (var item in (List<PlanoContaModel>)ViewBag.ListaPlanoConta)
+        foreach (var item in (List<TransacaoModel>)ViewBag.ListaTransacao)
         {
             <tr>
                 <td>@item.Id</td>
-                <td>@item.Descricao</td>
+                <td>@item.Historico</td>
                 <td>@item.Tipo</td>
+                <td>@item.Valor</td>
+                <td>@item.Data</td>
                 <td><button type="button" class="btn btn-block btn-outline-warning"
                         onclick="Editar(@item.Id.ToString())">Editar</button></td>
                 <td><button type="button" class="btn btn-block btn-outline-danger"
