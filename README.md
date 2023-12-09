@@ -4,6 +4,10 @@
 
 Projeto de trabalho da disciplina Práticas de Implementação e Evolução de Software da Especialização em Engenharia de Software da PUC-MG.
 
+Alunos:
+- Jonathan Louback
+- Thiago Augusto de Souza
+
 ## Criando Banco de dados 
 Para este projeto, usamos docker para o servidor de banco de dados, segue abaixo as instruções de como criar e configurar.
 
