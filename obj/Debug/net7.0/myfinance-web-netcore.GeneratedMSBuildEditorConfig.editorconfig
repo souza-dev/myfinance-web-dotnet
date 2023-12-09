@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = myfinance_web_netcore
 build_property.RootNamespace = myfinance_web_netcore
-build_property.ProjectDir = /Users/thiagosouza/Documents/code.nosync/Estudos/praticadeimplementacao/src/myfinance-web-netcore/
+build_property.ProjectDir = D:\Work\Estudos\dotnet\myfinance-web-dotnet\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/thiagosouza/Documents/code.nosync/Estudos/praticadeimplementacao/src/myfinance-web-netcore
+build_property.MSBuildProjectDirectory = D:\Work\Estudos\dotnet\myfinance-web-dotnet
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/thiagosouza/Documents/code.nosync/Estudos/praticadeimplementacao/src/myfinance-web-netcore/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[D:/Work/Estudos/dotnet/myfinance-web-dotnet/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/thiagosouza/Documents/code.nosync/Estudos/praticadeimplementacao/src/myfinance-web-netcore/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[D:/Work/Estudos/dotnet/myfinance-web-dotnet/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/thiagosouza/Documents/code.nosync/Estudos/praticadeimplementacao/src/myfinance-web-netcore/Views/PlanoConta/Cadastro.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGxhbm9Db250YS9DYWRhc3Ryby5jc2h0bWw=
+[D:/Work/Estudos/dotnet/myfinance-web-dotnet/Views/PlanoConta/Cadastro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbm9Db250YVxDYWRhc3Ryby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/thiagosouza/Documents/code.nosync/Estudos/praticadeimplementacao/src/myfinance-web-netcore/Views/PlanoConta/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGxhbm9Db250YS9JbmRleC5jc2h0bWw=
+[D:/Work/Estudos/dotnet/myfinance-web-dotnet/Views/PlanoConta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbm9Db250YVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/thiagosouza/Documents/code.nosync/Estudos/praticadeimplementacao/src/myfinance-web-netcore/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[D:/Work/Estudos/dotnet/myfinance-web-dotnet/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/thiagosouza/Documents/code.nosync/Estudos/praticadeimplementacao/src/myfinance-web-netcore/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[D:/Work/Estudos/dotnet/myfinance-web-dotnet/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/thiagosouza/Documents/code.nosync/Estudos/praticadeimplementacao/src/myfinance-web-netcore/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[D:/Work/Estudos/dotnet/myfinance-web-dotnet/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/thiagosouza/Documents/code.nosync/Estudos/praticadeimplementacao/src/myfinance-web-netcore/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[D:/Work/Estudos/dotnet/myfinance-web-dotnet/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/thiagosouza/Documents/code.nosync/Estudos/praticadeimplementacao/src/myfinance-web-netcore/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-douaybf8u1
+[D:/Work/Estudos/dotnet/myfinance-web-dotnet/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cjjokk8zpd
