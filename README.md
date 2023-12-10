@@ -86,7 +86,7 @@ optionsBuilder.UseSqlServer(connectionString);
 Agora abra o terminal, confira se está na mesma pasta do arquivo `Program.cs` e execute o comando **`dotnet run`** ou `dotnet watch` para que o projeto seja 'buildado'. 
 Após o termino do build, abra o browser no endereço: `http://localhost:5261/`.
 
-6. Ovweview:
+6. Overview:
 
 No menu, clique em 'Plano Conta' e aparecerá a lista de itens já criado inicialmente (essa lista foi inserida no passo 4).
 
